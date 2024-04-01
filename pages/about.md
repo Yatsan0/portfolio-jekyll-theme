@@ -4,6 +4,10 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Anastasia's Portfolio
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Anastasia D.
+London, UK
+Hi, I am a recent graduate student studying Philosophy, Politics, and Economics at King’s College London. Currently, I am studying for my Professional Certificate in Data Analytics online program at Imperial College Business School Executive Education. I am starting to gain experience in many different fields and am eager to learn and seek a challenging role that will help me build my skills. 
+I am curious about analyses/research in social science, learning about occurring trends and relevant technologies and looking for many ways to express creativity. 
+
